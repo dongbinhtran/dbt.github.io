@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Blog Archive
+title: About
 ---
+This is the DSRD Statistics webpage
 
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
