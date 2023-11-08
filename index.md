@@ -7,6 +7,4 @@
 * Bayesian approaches for historical information. 
 
 ## Meet The Team
-library(here)
-libarary(readr)
-mylink <- "/_posts/images.png"
+myimage1 <- "/_posts/images.png"
