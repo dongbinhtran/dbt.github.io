@@ -7,4 +7,4 @@
 * Bayesian approaches for historical information. 
 
 ## Meet The Team
-[myimage1] (/_posts/images.png"
+[myimage1] (_posts/avatar.jpg")
