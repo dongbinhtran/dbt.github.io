@@ -1,4 +1,4 @@
-## Blog Post Title From First Header
+## Meet The Team
 
 This is a sample blog post. You can talk about all sorts of fun things here.
 
