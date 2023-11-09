@@ -1,4 +1,4 @@
-#### DSRD Statistics Team partners with disciplines across all areas of DSRD and Comparative Medicine, providing collaborative input in the following areas:
+### DSRD Statistics Team partners with disciplines across all areas of DSRD and Comparative Medicine, providing collaborative input in the following areas:
 
 * Design, analysis, reporting and interpretation of studies including GLP, exploratory, and investigative studies,
 * Development of automated systems for the analysis and reporting of study data,
@@ -6,7 +6,7 @@
 * Evaluating the translatability (e.g., in vitro to in vivo, preclinical to clinical) of safety assays,
 * Bayesian approaches for historical information. 
 
-#### Meet The Team
+### Meet The Team
 
 This is a sample blog post. You can talk about all sorts of fun things here.
 [image1]("_posts/avatar.jpg")
@@ -14,7 +14,7 @@ This is a sample blog post. You can talk about all sorts of fun things here.
 
 ### This is a header
 
-#### Some T-SQL Code
+### Some T-SQL Code
 
 ```tsql
 SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
